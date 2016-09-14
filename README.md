@@ -33,7 +33,7 @@ options, the following is a short description of them:
 * **--intel**, Supply this option if using a network composed of Intel Galileo;
 
 ### Why?
-If are trying the NDNOverUDP library with some Arduinos or any compatible board this is useful to debug, retrieve content or take a look at an example of a simple NDN implementation over UDP.
+If trying the NDNOverUDP library with some Arduinos or any compatible board this is useful to debug, retrieve content or take a look at an example of a simple NDN implementation over UDP.
 
 ------------------------------------------------------------
 Copyright (C) **Antonio Cardace** and **Davide Aguiari** 2016, antonio@cardace.it
