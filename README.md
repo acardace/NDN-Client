@@ -36,4 +36,4 @@ options, the following is a short description of them:
 If trying the NDNOverUDP library with some Arduinos or any compatible board this is useful to debug, retrieve content or take a look at an example of a simple NDN implementation over UDP.
 
 ------------------------------------------------------------
-Copyright (C) **Antonio Cardace** and **Davide Aguiari** 2016, antonio@cardace.it
+Copyright (C) **Antonio Cardace** and **Davide Aguiari** 2016, antonio@cardace.it, gorghino@gmail.com
